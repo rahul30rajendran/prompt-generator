@@ -8,7 +8,7 @@ load_dotenv()
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 st.set_page_config(page_title="AI Prompt Generator", page_icon="✨")
-st.title("✨ Prompt Generator Tool (Powered by LLaMA3 @ Groq)")
+st.title("✨ Prompt Generator Tool- by Rahul✨")
 
 st.markdown("""
 Describe a task, and this tool will generate a high-quality prompt using the LLaMA 3 model (via Groq API).
