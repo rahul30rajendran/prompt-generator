@@ -16,4 +16,5 @@ This is a simple, beginner-friendly **AI Prompt Generator** app built using **St
 - ✅ Ready for deployment on Streamlit Cloud  
 
 ---
-
+URL
+https://prompt-generator-ptwvhtquz2tuemnozb234a.streamlit.app/
