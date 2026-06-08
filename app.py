@@ -5,7 +5,8 @@ from dotenv import load_dotenv
 
 # Load your Groq API token
 load_dotenv()
-GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+# GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+ GROQ_API_KEY = "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"
 
 st.set_page_config(page_title="AI Prompt Generator", page_icon="✨")
 st.title("✨ Prompt Generator Tool- by Rahul✨")
